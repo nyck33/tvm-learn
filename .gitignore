@@ -1,0 +1,36 @@
+# ignore model folder
+model/
+tlc_packs/
+
+# large files for deep learning like .npz
+*.npz
+*.npz2
+*.npz3
+*.npz4
+*.npz5
+*.npz6
+
+
+*.json
+
+*.tar 
+*.tar.gz
+*.tgz
+*.zip
+
+*.gz
+*.bz2
+
+*.onnx
+
+.pkl_memoize_py3/
+*.pkl_memoize_py3/
+
+#other dl model or weight files
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.ckpt
+*.ckpt2
+
