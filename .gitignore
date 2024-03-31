@@ -11,7 +11,7 @@ tlc_packs/
 *.npz6
 
 
-*.json
+#*.json
 
 *.tar 
 *.tar.gz
